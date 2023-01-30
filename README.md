@@ -1,0 +1,1 @@
+# typScrp-proyect
